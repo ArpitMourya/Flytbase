@@ -37,6 +37,8 @@ Modify `config.yaml` to adjust mission parameters, conflict thresholds, and othe
 ## Visualizing Results
 
 Results are saved in the `results` folder. Open `index.html` in a browser to view the 3D visualization.
+![image](https://github.com/user-attachments/assets/161fe4fb-486b-4fc2-a435-e60dce6747a4)
+
 
 ## Testing
 
