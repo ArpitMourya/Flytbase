@@ -1,4 +1,4 @@
-# Flytbase UAV Deconfliction
+# UAV_Conflict_detection_sytem (UAV Deconfliction)
 
 This project provides a framework for detecting and visualizing spatial and temporal conflicts between a primary UAV mission and multiple simulated drone flights.
 
@@ -13,7 +13,7 @@ This project provides a framework for detecting and visualizing spatial and temp
 1. **Clone the repository**  
    ```sh
    git clone <repo-url>
-   cd Flytbase
+   cd UAV_Conflict_detection_sytem
    ```
 
 2. **Install dependencies**  
